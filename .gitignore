@@ -1,2 +1,2 @@
 terraform.tfvars
-kubeconfig.yaml
+kube_config.yaml
